@@ -1,0 +1,7 @@
+﻿  Shmopfile.c
+c:\users\omerb\source\repos\shmoppass\shmoppass\shmopfile.c(16): warning C4101: 'c': unreferenced local variable
+  ShmoppieD.c
+c:\users\omerb\source\repos\shmoppass\shmoppied\shmoppied.c(65): warning C4098: 'print_file': 'void' function returning a value
+c:\users\omerb\source\repos\shmoppass\shmoppied\shmoppied.c(94): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+  ShmoppieD.vcxproj -> C:\Users\omerb\source\repos\Shmoppass\Debug\ShmoppieD.exe

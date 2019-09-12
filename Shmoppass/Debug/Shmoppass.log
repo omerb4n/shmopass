@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Shmoppass.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ShmoppieD.c
+c:\users\omerb\source\repos\shmoppass\shmoppass\shmoppied.c(68): warning C4098: 'print_file': 'void' function returning a value
+c:\users\omerb\source\repos\shmoppass\shmoppass\shmoppied.c(101): warning C4090: 'function': different 'const' qualifiers
+  Shmoppass.vcxproj -> C:\Users\omerb\source\repos\Shmoppass\Debug\ShmoppieD.exe
